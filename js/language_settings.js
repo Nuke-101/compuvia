@@ -15,4 +15,5 @@ function changeLanguage(language) {
  localStorage.setItem("currentLanguage", language);
  var currentLang = localStorage.getItem("currentLanguage");
  console.log(currentLang);
+ location.reload();
 }
