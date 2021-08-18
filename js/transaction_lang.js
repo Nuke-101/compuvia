@@ -11,7 +11,9 @@ let languageData = {
 
     },
     "ge":{
-      
+        "transactions":"Transaktionen",
+        "today":"Heute",
+        "yesterday":"Gestern",
         "overview":"Überblick",
         "pages":"Seiten",
         "components":"Komponenten",
@@ -20,7 +22,9 @@ let languageData = {
 
     }, 
     "fr":{
-      
+        "transactions":"Transactions",
+        "today":"Aujourd'hui",
+        "yesterday":"Hier",
         "overview":"Aperçu",
         "pages":"Pages",
         "components":"Composants",
@@ -28,7 +32,9 @@ let languageData = {
         "settings":"Paramètres",
     },
     "pt":{
-       
+        "transactions":"Transações",
+        "today":"Hoje",
+        "yesterday":"Ontem",
         "overview":"Visão geral",
         "pages":"Páginas",
         "components":"Componentes",
@@ -36,7 +42,9 @@ let languageData = {
         "settings":"Configurações",
     },
      "sp":{
-        
+        "transactions":"Actas",
+        "today":"Hoy dia",
+        "yesterday":"El dia de ayer",
         "overview":"Visión general",
         "pages":"Paginas",
         "components":"Componentes",

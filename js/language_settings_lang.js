@@ -11,7 +11,7 @@ let languageData = {
 
     },
     "ge":{
-           "languages":"Idiomas",
+        "languages":"Idiomas",
         "default":"Defecto",
         "others":"Otros",
         "overview":"Überblick",
@@ -22,7 +22,7 @@ let languageData = {
 
     }, 
     "fr":{
-         "languages":"Langages",
+        "languages":"Langages",
         "default":"Défaut",
         "others":"Les autres",
         "overview":"Aperçu",
@@ -32,7 +32,7 @@ let languageData = {
         "settings":"Paramètres",
     },
     "pt":{
-          "languages":"línguas",
+        "languages":"línguas",
         "default":"Padrão",
         "others":"Outros",
         "overview":"Visão geral",
@@ -42,7 +42,7 @@ let languageData = {
         "settings":"Configurações",
     },
      "sp":{
-           "languages":"Idiomas",
+        "languages":"Idiomas",
         "default":"Defecto",
         "others":"Otros",
         "overview":"Visión general",
